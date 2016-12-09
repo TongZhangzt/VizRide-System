@@ -1,0 +1,308 @@
+{
+   "1000": {
+      "FIELD2": "Liberty & Stanwix",
+      "FIELD3": "16",
+      "FIELD4": "40.441326",
+      "FIELD5": "-80.004679"
+   },
+   "1001": {
+      "FIELD2": "Forbes Ave & Market Sq",
+      "FIELD3": "19",
+      "FIELD4": "40.440877",
+      "FIELD5": "-80.00308"
+   },
+   "1002": {
+      "FIELD2": "Third & Wood",
+      "FIELD3": "15",
+      "FIELD4": "40.43903",
+      "FIELD5": "-80.00186"
+   },
+   "1003": {
+      "FIELD2": "First Ave & Smithfield St",
+      "FIELD3": "15",
+      "FIELD4": "40.4372",
+      "FIELD5": "-80.000375"
+   },
+   "1004": {
+      "FIELD2": "First Ave & B St",
+      "FIELD3": "15",
+      "FIELD4": "40.4358002",
+      "FIELD5": "-79.9968767"
+   },
+   "1005": {
+      "FIELD2": "Forbes Ave & Grant St",
+      "FIELD3": "19",
+      "FIELD4": "40.4387769",
+      "FIELD5": "-79.9974405"
+   },
+   "1006": {
+      "FIELD2": "Ross St & Sixth Ave",
+      "FIELD3": "21",
+      "FIELD4": "40.4400542",
+      "FIELD5": "-79.9951376"
+   },
+   "1007": {
+      "FIELD2": "Stevenson St & Forbes Ave",
+      "FIELD3": "19",
+      "FIELD4": "40.437643",
+      "FIELD5": "-79.986695"
+   },
+   "1008": {
+      "FIELD2": "Centre Ave and Consol",
+      "FIELD3": "35",
+      "FIELD4": "40.440368",
+      "FIELD5": "-79.988636"
+   },
+   "1009": {
+      "FIELD2": "12th St & Penn Ave",
+      "FIELD3": "19",
+      "FIELD4": "40.445844",
+      "FIELD5": "-79.99238"
+   },
+   "1010": {
+      "FIELD2": "10th St & Penn Ave",
+      "FIELD3": "15",
+      "FIELD4": "40.444614",
+      "FIELD5": "-79.9958114"
+   },
+   "1011": {
+      "FIELD2": "Fort Duquesne Blvd & 7th",
+      "FIELD3": "15",
+      "FIELD4": "40.4448352",
+      "FIELD5": "-80.0007479"
+   },
+   "1012": {
+      "FIELD2": "North Shore Trail & Ft Duquesne Bridge",
+      "FIELD3": "35",
+      "FIELD4": "40.445834",
+      "FIELD5": "-80.008882"
+   },
+   "1013": {
+      "FIELD2": "Isabella St & Federal St",
+      "FIELD3": "15",
+      "FIELD4": "40.447571",
+      "FIELD5": "-80.003964"
+   },
+   "1014": {
+      "FIELD2": "Ridge Ave & Brighton Rd (CCAC)",
+      "FIELD3": "19",
+      "FIELD4": "40.450595",
+      "FIELD5": "-80.013204"
+   },
+   "1015": {
+      "FIELD2": "Federal St & E North Ave",
+      "FIELD3": "12",
+      "FIELD4": "40.45509087",
+      "FIELD5": "-80.0063467"
+   },
+   "1016": {
+      "FIELD2": "17th St & Penn Ave",
+      "FIELD3": "19",
+      "FIELD4": "40.449631",
+      "FIELD5": "-79.985893"
+   },
+   "1017": {
+      "FIELD2": "21st St & Penn Ave",
+      "FIELD3": "19",
+      "FIELD4": "40.452124",
+      "FIELD5": "-79.983543"
+   },
+   "1018": {
+      "FIELD2": "37th St & Butler St",
+      "FIELD3": "21",
+      "FIELD4": "40.466103",
+      "FIELD5": "-79.964628"
+   },
+   "1019": {
+      "FIELD2": "42nd St & Butler St",
+      "FIELD3": "17",
+      "FIELD4": "40.470188",
+      "FIELD5": "-79.9603066"
+   },
+   "1020": {
+      "FIELD2": "42nd St & Penn Ave",
+      "FIELD3": "15",
+      "FIELD4": "40.465893",
+      "FIELD5": "-79.954417"
+   },
+   "1021": {
+      "FIELD2": "Taylor St & Liberty Ave",
+      "FIELD3": "19",
+      "FIELD4": "40.462769",
+      "FIELD5": "-79.950867"
+   },
+   "1022": {
+      "FIELD2": "Liberty Ave & S Millvale",
+      "FIELD3": "15",
+      "FIELD4": "40.4599487",
+      "FIELD5": "-79.9456124"
+   },
+   "1023": {
+      "FIELD2": "Liberty Ave & Baum Blvd",
+      "FIELD3": "21",
+      "FIELD4": "40.456505",
+      "FIELD5": "-79.939362"
+   },
+   "1024": {
+      "FIELD2": "S Negley Ave & Baum Blvd",
+      "FIELD3": "17",
+      "FIELD4": "40.458714",
+      "FIELD5": "-79.933483"
+   },
+   "1025": {
+      "FIELD2": "Penn Ave & N Fairmount St",
+      "FIELD3": "15",
+      "FIELD4": "40.464443",
+      "FIELD5": "-79.933188"
+   },
+   "1026": {
+      "FIELD2": "S Whitfield St & Baum Blvd",
+      "FIELD3": "13",
+      "FIELD4": "40.460982",
+      "FIELD5": "-79.926302"
+   },
+   "1027": {
+      "FIELD2": "Shady Ave & Ellsworth Ave",
+      "FIELD3": "19",
+      "FIELD4": "40.458972",
+      "FIELD5": "-79.922023"
+   },
+   "1028": {
+      "FIELD2": "Penn Ave & Putnam St (Bakery Sq)",
+      "FIELD3": "19",
+      "FIELD4": "40.455821",
+      "FIELD5": "-79.915248"
+   },
+   "1029": {
+      "FIELD2": "Alder St & S Higland Ave",
+      "FIELD3": "19",
+      "FIELD4": "40.4573211",
+      "FIELD5": "-79.9248275"
+   },
+   "1030": {
+      "FIELD2": "S Euclid Ave & Centre Ave",
+      "FIELD3": "12",
+      "FIELD4": "40.4589116",
+      "FIELD5": "-79.9290211"
+   },
+   "1031": {
+      "FIELD2": "Maryland Ave & Ellsworth Ave",
+      "FIELD3": "19",
+      "FIELD4": "40.45628",
+      "FIELD5": "-79.930962"
+   },
+   "1032": {
+      "FIELD2": "Maryland Ave & Walnut St",
+      "FIELD3": "15",
+      "FIELD4": "40.452621",
+      "FIELD5": "-79.928637"
+   },
+   "1033": {
+      "FIELD2": "Ivy St & Walnut St",
+      "FIELD3": "19",
+      "FIELD4": "40.45177",
+      "FIELD5": "-79.932324"
+   },
+   "1034": {
+      "FIELD2": "Ellsworth Ave & N Neville St",
+      "FIELD3": "15",
+      "FIELD4": "40.448419",
+      "FIELD5": "-79.947401"
+   },
+   "1035": {
+      "FIELD2": "Fifth Ave & S Dithridge St",
+      "FIELD3": "19",
+      "FIELD4": "40.446744",
+      "FIELD5": "-79.950881"
+   },
+   "1036": {
+      "FIELD2": "Schenley Dr at Schenley Plaza",
+      "FIELD3": "19",
+      "FIELD4": "40.442398",
+      "FIELD5": "-79.951479"
+   },
+   "1037": {
+      "FIELD2": "Frew St & Schenley Dr",
+      "FIELD3": "20",
+      "FIELD4": "40.441032",
+      "FIELD5": "-79.948042"
+   },
+   "1038": {
+      "FIELD2": "Boulevard of the Allies & Parkview Ave",
+      "FIELD3": "19",
+      "FIELD4": "40.434338",
+      "FIELD5": "-79.951877"
+   },
+   "1039": {
+      "FIELD2": "Atwood St & Bates",
+      "FIELD3": "19",
+      "FIELD4": "40.437987",
+      "FIELD5": "-79.95367"
+   },
+   "1040": {
+      "FIELD2": "Bigelow Blvd & Fifth Ave",
+      "FIELD3": "21",
+      "FIELD4": "40.4446284",
+      "FIELD5": "-79.9550156"
+   },
+   "1041": {
+      "FIELD2": "Fifth Ave & S Bouquet",
+      "FIELD3": "19",
+      "FIELD4": "40.442325",
+      "FIELD5": "-79.957604"
+   },
+   "1042": {
+      "FIELD2": "Centre Ave & Kirkpatrick St",
+      "FIELD3": "12",
+      "FIELD4": "40.445019",
+      "FIELD5": "-79.977194"
+   },
+   "1043": {
+      "FIELD2": "Coltart Ave & Forbes Ave",
+      "FIELD3": "15",
+      "FIELD4": "40.438876",
+      "FIELD5": "-79.960179"
+   },
+   "1044": {
+      "FIELD2": "Zulema St & Coltart Ave",
+      "FIELD3": "19",
+      "FIELD4": "40.435986",
+      "FIELD5": "-79.956942"
+   },
+   "1045": {
+      "FIELD2": "S 27th & Tunnel Blvd",
+      "FIELD3": "19",
+      "FIELD4": "40.428658",
+      "FIELD5": "-79.965228"
+   },
+   "1046": {
+      "FIELD2": "S 25th St & E Carson St",
+      "FIELD3": "18",
+      "FIELD4": "40.42802",
+      "FIELD5": "-79.969799"
+   },
+   "1047": {
+      "FIELD2": "S 22nd St & E Carson St",
+      "FIELD3": "20",
+      "FIELD4": "40.428576",
+      "FIELD5": "-79.974559"
+   },
+   "1048": {
+      "FIELD2": "S 18th St & Sidney St",
+      "FIELD3": "16",
+      "FIELD4": "40.429338",
+      "FIELD5": "-79.980684"
+   },
+   "1049": {
+      "FIELD2": "S 12th St & E Carson St",
+      "FIELD3": "19",
+      "FIELD4": "40.4285528",
+      "FIELD5": "-79.9863687"
+   },
+   "StationNum": {
+      "FIELD2": "StationName",
+      "FIELD3": "RackQnty",
+      "FIELD4": "Latitude",
+      "FIELD5": "Longitude"
+   }
+}

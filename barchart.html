@@ -1,0 +1,169 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <style type="text/css">  
+    #chart3 {
+        position: relative;
+        top: 120px;
+        left: 145px;
+    }
+    </style>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+    <script src="http://d3js.org/d3.v3.js"></script>
+    <link href="./css/nv.d3.css" rel="stylesheet">
+    <link href="./css/styles.css" rel="stylesheet">
+    <script src="./js/nv.d3.js"></script>
+    <script src="./js/barchart.js"></script>
+</head>
+
+<body>
+    <div id="title">VizRide: Rebalancing of Healthy Ride Pittsburgh in 2016</div>
+    <div style="position:relative;left:50px; top:0px; width:792px;height:312px; display:inline-block">
+        <div style="position:absolute;left:-2px;top:63.2px; border:solid 3px #ffffd9">
+            <img src="./images/background.jpg" height="350" width="792">
+        </div>
+        <div class="cls_005" style="position:absolute;left:427.65px;top:69.91px"><span class="cls_005" id="1019">1019</span></div>
+        <div class="cls_005" style="position:absolute;left:405.99px;top:99.96px"><span class="cls_005" id="1018">1018</span></div>
+        <div class="cls_005" style="position:absolute;left:467.26px;top:104.36px"><span class="cls_005" id="1020">1020</span></div>
+        <div class="cls_006" style="position:absolute;left:590.08px;top:113.83px"><span class="cls_006" id="1025">1025</span></div>
+        <div class="cls_006" style="position:absolute;left:489.31px;top:119.24px"><span class="cls_006" id="1021">1021</span></div>
+        <div style="position:absolute;left:637.85px;top:129.30px" class="cls_006"><span class="cls_006" id="1026">1026</span></div>
+        <div class="cls_006" style="position:absolute;left:520.38px;top:145.61px"><span class="cls_006" id="1022">1022</span></div>
+        <div style="position:absolute;left:664.44px;top:147.44px" class="cls_006"><span class="cls_006" id="1027">1027</span></div>
+        <div class="cls_006" style="position:absolute;left:592.26px;top:150.10px"><span class="cls_006" id="1024">1024</span></div>
+        <div class="cls_006" style="position:absolute;left:620.19px;top:154.44px"><span class="cls_006" id="1030">1030</span></div>
+        <div class="cls_006" style="position:absolute;left:557.44px;top:162.39px"><span class="cls_006" id="1023">1023</span></div>
+        <div class="cls_006" style="position:absolute;left:643.97px;top:166.60px"><span class="cls_006" id="1029">1029</span></div>
+        <div style="position:absolute;left:608.92px;top:177.75px" class="cls_006"><span class="cls_006" id="1031">1031</span></div>
+        <div style="position:absolute;left:703.02px;top:177.10px" class="cls_006"><span class="cls_006" id="1028">1028</span></div>
+        <div style="position:absolute;left:155.01px;top:183.15px" class="cls_005"><span class="cls_005" id="1015">1015</span></div>
+        <div style="position:absolute;left:297.16px;top:205.36px" class="cls_005"><span class="cls_005" id="1017">1017</span></div>
+        <div style="position:absolute;left:618.19px;top:204.56px" class="cls_006"><span class="cls_006" id="1023">1023</span></div>
+        <div style="position:absolute;left:111.70px;top:214.69px" class="cls_005"><span class="cls_005" id="1014">1014</span></div>
+        <div style="position:absolute;left:596.02px;top:214.74px" class="cls_006"><span class="cls_006" id="1033">1033</span></div>
+        <div style="position:absolute;left:280.54px;top:222.80px" class="cls_005"><span class="cls_005" id="1016">1016</span></div>
+        <div style="position:absolute;left:168.85px;top:229.76px" class="cls_005"><span class="cls_005" id="1013">1013</span></div>
+        <div style="position:absolute;left:510.71px;top:231.27px" class="cls_005"><span class="cls_005" id="1034">1034</span></div>
+        <div style="position:absolute;left:485.93px;top:241.21px" class="cls_005"><span class="cls_005" id="1035">1035</span></div>
+        <div style="position:absolute;left:135.13px;top:254.15px" class="cls_005"><span class="cls_005" id="1012">1012</span></div>
+        <div style="position:absolute;left:243.56px;top:252.39px" class="cls_005"><span class="cls_005" id="1009">1009</span></div>
+        <div style="position:absolute;left:464.90px;top:255.79px" class="cls_005"><span class="cls_005" id="1040">1040</span></div>
+        <div style="position:absolute;left:336.38px;top:259.15px" class="cls_005"><span class="cls_005" id="1042">1042</span></div>
+        <div style="position:absolute;left:222.24px;top:263.72px" class="cls_005"><span class="cls_005" id="1010">1010</span></div>
+        <div style="position:absolute;left:189.63px;top:270.28px" class="cls_005"><span class="cls_005" id="1011">1011</span></div>
+        <div style="position:absolute;left:451.00px;top:276.63px" class="cls_005"><span class="cls_005" id="1041">1041</span></div>
+        <div style="position:absolute;left:165.22px;top:283.06px" class="cls_005"><span class="cls_005" id="1000">1000</span></div>
+        <div style="position:absolute;left:226.75px;top:288.73px" class="cls_005"><span class="cls_005" id="1006">1006</span></div>
+        <div style="position:absolute;left:259.72px;top:288.01px" class="cls_005"><span class="cls_005" id="1008">1008</span></div>
+        <div style="position:absolute;left:498.51px;top:289.02px" class="cls_005"><span class="cls_005" id="1037">1037</span></div>
+        <div style="position:absolute;left:180.25px;top:297.88px" class="cls_005"><span class="cls_005" id="1001">1001</span></div>
+        <div style="position:absolute;left:209.94px;top:300.98px" class="cls_005"><span class="cls_005" id="1005">1005</span></div>
+        <div style="position:absolute;left:427.65px;top:302.15px" class="cls_005"><span class="cls_005" id="1043">1043</span></div>
+        <div style="position:absolute;left:515.04px;top:302.95px" class="cls_005"><span class="cls_005" id="1036">1036</span></div>
+        <div style="position:absolute;left:166.20px;top:310.85px" class="cls_005"><span class="cls_005" id="1003">1003</span></div>
+        <div style="position:absolute;left:468.37px;top:310.41px" class="cls_005"><span class="cls_005" id="1039">1039</span></div>
+        <div style="position:absolute;left:280.35px;top:315.56px" class="cls_005"><span class="cls_005" id="1007">1007</span></div>
+        <div style="position:absolute;left:194.54px;top:317.36px" class="cls_005"><span class="cls_005" id="1002">1002</span></div>
+        <div style="position:absolute;left:209.94px;top:331.03px" class="cls_005"><span class="cls_005" id="1004">1004</span></div>
+        <div style="position:absolute;left:453.72px;top:331.00px" class="cls_005"><span class="cls_005" id="1044">1044</span></div>
+        <div style="position:absolute;left:483.18px;top:342.07px" class="cls_005"><span class="cls_005" id="1038">1038</span></div>
+        <div style="position:absolute;left:310.45px;top:379.28px" class="cls_005"><span class="cls_005" id="1048">1048</span></div>
+        <div style="position:absolute;left:272.66px;top:384.12px" class="cls_005"><span class="cls_005" id="1049">1049</span></div>
+        <div style="position:absolute;left:345.19px;top:386.09px" class="cls_005"><span class="cls_005" id="1047">1047</span></div>
+        <div style="position:absolute;left:402.48px;top:386.36px" class="cls_005"><span class="cls_005" id="1045">1045</span></div>
+        <div style="position:absolute;left:375.85px;top:391.61px" class="cls_005"><span class="cls_005" id="1046">1046</span></div>
+    </div>
+    <div id="detail">
+        <div id="detail_title">Details</div>
+        <div id="stationID"></div>
+        <div id="stationName"></div>
+        <div id="stationRackQnty"></div>
+        <div id="date"></div>
+        <div id="numPickOut"></div>
+        <div id="numReturn"></div>
+        <div id="difference"></div>
+    </div>
+    <div id="choices">
+        <a class="btn btn-default buttons" href="./homepage.html" role="button">Home Page</a>
+        <a class="btn btn-default buttons" href="./heatmap.html" role="button">Heat Map</a>
+        <a class="btn btn-default buttons" href="./linegraph.html" role="button">Line Chart</a>
+    </div>
+    <div id='chart3'>
+        <svg style='height:380px'> </svg>
+    </div>
+    <select class="form-control" id="Month" onchange="changeData()">
+        <option value=1>January</option>
+        <option value=2>February</option>
+        <option value=3>March</option>
+        <option value=4>April</option>
+        <option value=5>May</option>
+        <option value=6>June</option>
+        <option value=7>July</option>
+        <option value=8>August</option>
+        <option value=9>September</option>
+    </select>
+    <select class="form-control" id="Week" onchange="changeData()">
+        <option value=1>Week 1</option>
+        <option value=2>Week 2</option>
+        <option value=3>Week 3</option>
+        <option value=4>Week 4</option>
+    </select>
+    <div id="start">
+        <a onclick="start(this);" class="btn btn-info">Start</a>
+    </div>
+    <div id="restore">
+        <input name="Restore" value="Restore" type="button" onclick="restore()" class="btn btn-info" />
+    </div>
+    <script type="text/javascript">
+    $("span").click(function(ev) {
+        $("span").removeClass("clicked");
+        $(ev.currentTarget).addClass("clicked");
+        var clickID = $(ev.currentTarget).attr('id');
+
+        $("#stationID").html("StationID: " + clickID);
+        $("#date").html("");
+        $("#numPickOut").html("");
+        $("#numReturn").html("");
+        $("#difference").html("");
+        $.getJSON("./data/stations.json", function(data) {
+            $("#stationName").html("StationName: " + data[clickID].FIELD2);
+            $("#stationRackQnty").html("Station RackQnty: " + data[clickID].FIELD3);
+        });
+
+        localStorage.setItem('Station', clickID);
+
+        changeData();
+    });
+    $('#chart3 svg').html("");
+    var chart = nv.models.discreteBarChart()
+        .x(function(d) {
+            return d.label
+        }) //Specify the data accessors.
+        .y(function(d) {
+            return d.value
+        })
+        .height(360)
+        .width(950)
+        .staggerLabels(true) //Too many bars and not enough room? Try staggering labels.
+        .tooltips(true) //Don't show tooltips
+        .showValues(true) //...instead, show the bar value right on top of each bar.
+        .transitionDuration(350)
+        .color(['#aec7e8'])
+        .margin({
+            left: 100
+        });
+
+    chart.xAxis //Chart x-axis settings
+        .tickFormat(d3.format('d'))
+        .axisLabel('Date');
+
+    chart.yAxis //Chart y-axis settings
+        .tickFormat(d3.format('d'))
+        .axisLabel('Difference');
+    $("span#" + getStation()).trigger("click");
+    </script>
+</body>
+
+</html>

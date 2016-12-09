@@ -1,0 +1,161 @@
+    text.mono {
+        font-size: 9pt;
+        font-family: Consolas, courier;
+        fill: #aaa;
+    }
+    
+    text.axis-workweek {
+        fill: #000;
+    }
+    
+    text.axis-worktime {
+        fill: #000;
+    }
+    
+    .buttons {
+        margin-left: 20px;
+        width: 100px;
+        text-align: center;
+    }
+    
+    #title {
+        font-size: 30px;
+        margin-top: 30px;
+        margin-left: 275px;
+        margin-bottom: 0px;
+    }
+    
+    #detail {
+        display: inline-block;
+        position: absolute;
+        left: 900px;
+        top: 145px;
+        border: solid 3px #c7e9b4;
+        width: 330px;
+        padding: 5px;
+        font-size: 16px;
+    }
+    
+    #detail_title {
+        font-size: 22px;
+        margin-left: 128px;
+    }
+    
+    span.cls_003 {
+        font-family: Arial, serif;
+        font-size: 10.1px;
+        color: rgb(130, 126, 129);
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none
+    }
+    
+    div.cls_003 {
+        font-family: Arial, serif;
+        font-size: 10.1px;
+        color: rgb(130, 126, 129);
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none
+    }
+    
+    span.cls_004 {
+        font-family: Arial, serif;
+        font-size: 12.1px;
+        color: rgb(130, 126, 129);
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none
+    }
+    
+    div.cls_004 {
+        font-family: Arial, serif;
+        font-size: 12.1px;
+        color: rgb(130, 126, 129);
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none
+    }
+    
+    span.cls_005 {
+        font-family: Arial, serif;
+        font-size: 12.2px;
+        color: rgb(43, 42, 41);
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none
+    }
+    
+    div.cls_005 {
+        font-family: Arial, serif;
+        font-size: 12.2px;
+        color: rgb(43, 42, 41);
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none
+    }
+    
+    span.cls_006 {
+        font-family: Arial, serif;
+        font-size: 12.2px;
+        color: rgb(43, 42, 41);
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none
+    }
+    
+    div.cls_006 {
+        font-family: Arial, serif;
+        font-size: 12.1px;
+        color: rgb(43, 42, 41);
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none
+    }
+    
+    rect.bordered {
+        stroke: #E6E6E6;
+        stroke-width: 2px;
+    }
+    
+    .clicked {
+        color: red!important;
+        font-size: 14.2px!important;
+    }
+    
+    #choices {
+        display: inline-block;
+        position: absolute;
+        left: 875px;
+        top: 320px;
+    }
+    
+    #Month {
+        width: 115px;
+        display: inline-block;
+        position: absolute;
+        left: 935px;
+        top: 383px;
+    }
+    
+    #Week {
+        width: 110px;
+        display: inline-block;
+        position: absolute;
+        left: 1075px;
+        top: 383px;
+    }
+    
+    #start {
+        display: inline-block;
+        position: absolute;
+        left: 965px;
+        top: 445px;
+    }
+    
+    #restore {
+        display: inline-block;
+        position: absolute;
+        left: 1095px;
+        top: 445px;
+    }
