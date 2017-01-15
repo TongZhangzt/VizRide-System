@@ -1,6 +1,6 @@
 # VizRide-Systems
 ## Introduction
-This visualization system is built for the Pittsburgh Healthy Ride bicycle sharing program. The aim of this system is to accomplish analyzing and visualizing the rebalance problem of this bicycle sharing sharing system.  
+This visualization system is built for the Pittsburgh Healthy Ride bicycle sharing program. The aim of this system is to accomplish analyzing and visualizing the rebalance problem of this bicycle sharing system.  
 
 Every day, many bicycles are picked out and returned to different stations, some stations are popolar while others are not. So it is very important to figure out how many bicycles we should put in wach station. I foucused on visualize the difference value between the pick-out and the returned bicycles everyday among these bicycle sharing stations in Pittsburgh.
 ![VizRide](/images/screenshot.png)
